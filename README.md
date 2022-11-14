@@ -11,8 +11,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - Hooks
   - Node
   - SASS/SCSS
-  - (FreeCodeCamp)[https://www.freecodecamp.org/]
-  - (Yogesh Chavan)[https://www.freecodecamp.org/news/author/yogesh/]
+  - [FreeCodeCamp](https://www.freecodecamp.org/)
+  - [Yogesh Chavan](https://www.freecodecamp.org/news/author/yogesh/)
 
 ## Available Scripts
 
