@@ -82,3 +82,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### TODO:
+* [ ] Switch from local storage to combo LS and DB
+* [ ] Add Series and Series Number
+* [ ] Add Cover Image
+* [ ] Add Sorting by Title, Author, Series
+* [ ] Add Searching by Title, Author, Series
+* [ ] Add source [purchase|loan]
+* [ ] Add loaned to [person]
+* [ ] Add people [for loaning]
+* [ ] Add store [for purchase]
+* [ ] Add [goodreads] Book/Library/Lending Lib integration
+  * [Home Library Apps](https://bookriot.com/home-library-apps/)
+  * [OpenSource Library Management](https://www.techjockey.com/blog/best-open-source-free-library-management-software)
+  * [GoodReads API](https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs)
+  * [Google GoodReads API](https://developers.google.com/books/casestudies/goodreads)
+
+* [ ] Add phone scanner entry
+* [ ] Change Quantity to Loan System Quantity
